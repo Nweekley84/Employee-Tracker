@@ -3,28 +3,26 @@ VALUES ('Management');
 INSERT INTO departments(name)
 VALUES ('Sales');
 INSERT INTO departments(name)
-VALUES ('Accounting');
+VALUES ('Human Resources');
 
 INSERT INTO roles(title, salary, department_id)
-VALUES ('Regional Manager', 80000, 1);
-INSERT INTO roles(title, salary, department_id)
-VALUES ('Asst. to the Regional Manager', 75000, 2);
+VALUES ('Manager', 90000, 1);
 INSERT INTO roles(title, salary, department_id)
 VALUES ('Salesman', 70000, 2);
 INSERT INTO roles(title, salary, department_id)
-VALUES ('Accountant', 60000, 3);
+VALUES ('Human Resources', 60000, 3);
 
 INSERT INTO employees(first_name, last_name, role_id)
-VALUES ('Michael', 'Scott', 1);
+VALUES ('Nathan', 'Weekley', 1);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Dwight', 'Schrute', 2, 1);
+VALUES ('Chris', 'Mcleary', 2, 1);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Jim', 'Halpert', 3, 2);
+VALUES ('Gabe', 'Fonseca', 3, 2);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Stanley', 'Hudson', 3, 2);
+VALUES ('Matt', 'Mylerberg', 3, 2);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Oscar', 'Martinez', 4, 1);
+VALUES ('Emmy', 'Fonseca', 4, 1);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Kevin', 'Malone', 4, 1);
+VALUES ('Huong', 'Tran', 4, 1);
 INSERT INTO employees(first_name, last_name, role_id, manager_id)
-VALUES ('Angela', 'Martin', 4, 1);
+VALUES ('Ryan', 'Osgood', 4, 1);
