@@ -6,7 +6,7 @@
 <img src='https://img.shields.io/github/last-commit/Nweekley84/Employee-Tracker'>
 </div>
 
-### Command line application for viewing and managing departments, roles, and employees in your company
+### Command line application for viewing and managing departments, roles, and employees at Dunder Mifflin Paper Company!
 <br>
 
 ## Table of Contents  
@@ -19,7 +19,7 @@
 
 ## Features
 - Add new employees, roles, and departments to a company
-- Assign new employees a manager
+- Assign employees a manager
 - View all employees, or filter view by role or department
 - Update an employee's role
 
@@ -54,6 +54,7 @@ at the top of this repository, and open project directory in terminal.
 ![Demo](./assets/demo.gif)
 
 ## Future Development
+- Get a visit from Michael Scott
 - Update an employee's manager
 - View employees by manager
 - DELETE employees/roles/deptartments from database

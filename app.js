@@ -250,7 +250,6 @@ function viewEmployeesByDepartment() {
     });
 }
 
-
 // UPDATE
 function updateEmployeeRole() {
     inquirer.prompt([
@@ -287,7 +286,6 @@ function updateEmployeeRole() {
         );
     });
 }
-
 
 // SELECT (for Inquirer list prompts)
 function getEmployees() {
