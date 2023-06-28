@@ -13,6 +13,7 @@
 * [Features](#Features)  
 * [Installation](#Installation)  
 * [Usage](#Usage)  
+* [Demo](#Demo)  
 * [Future Development](#Future-Development)  
 * [License](#License)
 
@@ -48,6 +49,8 @@ at the top of this repository, and open project directory in terminal.
 1. Run `node app.js` in terminal  
 2. Select an option from the menu & follow prompts to view or manage items in the company database
 3. Select `Exit` on main menu to exit the app  
+
+## Demo
 ![Demo](./assets/demo.gif)
 
 ## Future Development
