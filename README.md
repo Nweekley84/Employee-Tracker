@@ -60,7 +60,7 @@ at the top of this repository, and open project directory in terminal.
 
 ## License
 This project is [MIT](https://github.com/Nweekley84/Employee-Tracker/blob/main/LICENSE) licensed.  
-© 2020 [Joel Dore](https://github.com/Nweekley84)  
+© 2020 [Nathan Weekley](https://github.com/Nweekley84)  
 
 ---
 <br>
