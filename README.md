@@ -15,6 +15,7 @@
 * [Usage](#Usage)  
 * [Demo](#Demo)  
 * [Future Development](#Future-Development)  
+* [Contributors](#Contributors)
 * [License](#License)
 
 ## Features
@@ -58,6 +59,9 @@ at the top of this repository, and open project directory in terminal.
 - Update an employee's manager
 - View employees by manager
 - DELETE employees/roles/deptartments from database
+
+## Contributors
+- Many thanks to this YouTube tutorial by Nathaniel Ehrlich for inspiration: https://www.youtube.com/watch?v=8wSVL_SqPP4
 
 ## License
 This project is [MIT](https://github.com/Nweekley84/Employee-Tracker/blob/main/LICENSE) licensed.  
